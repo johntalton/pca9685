@@ -1,0 +1,17 @@
+{
+  "name": "pca9685",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cali.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johntalton/pca9685.git"
+  },
+  "author": "johntalton@gmail.com",
+  "bugs": {
+    "url": "https://github.com/johntalton/pca9685/issues"
+  },
+  "homepage": "https://github.com/johntalton/pca9685#readme"
+}
